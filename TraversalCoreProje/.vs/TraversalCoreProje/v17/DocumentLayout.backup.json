@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\feature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\feature2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|c:\\users\\egeha\\onedrive\\belgeler\\github\\rezervasyon uygulamas\u0131\\rezervasyon-uygulamas-\\traversalcoreproje\\entitylayer\\concrete\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B31EFB-7244-4380-88DC-4F94D7F4E980}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Newsletter.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Newsletter.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Newsletter.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Newsletter.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Newsletter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:43:04.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Testimonial.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Testimonial.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:39:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubAbout.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\SubAbout.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\SubAbout.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\SubAbout.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\SubAbout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:37:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Feature2.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Feature2.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Feature2.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Feature2.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Feature2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:33:23.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Feature.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Feature.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Feature.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:28:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\About.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\About.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\About.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:23:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Destination.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Destination.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Belgeler\\GitHub\\Rezervasyon Uygulamas\u0131\\Rezervasyon-Uygulamas-\\TraversalCoreProje\\EntityLayer\\Concrete\\Destination.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:17:24.735Z",
+              "EditorCaption": ""
             }
           ]
         }
